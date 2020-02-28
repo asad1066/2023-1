@@ -1,0 +1,22 @@
+{
+  "name": "2023-1",
+  "version": "0.0.1",
+  "description": "Attendance server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asad1066/2023-1.git"
+  },
+  "author": "Andy Sadler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asad1066/2023-1/issues"
+  },
+  "homepage": "https://github.com/asad1066/2023-1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
